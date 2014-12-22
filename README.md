@@ -32,9 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A Comfortable new ballad of a dreame of a sinner ...1625Approx. 10 KB of XML-encoded text transcribe
+
+1. A comfortable new Ballad of a Dreame of a Sinner,being very 〈◊〉 troubled with the assaults of Sathan
+
 #####Back#####
-A Comfortable new ballad of a dreame of a sinner ...1625Approx. 10 KB of XML-encoded text transcribe
+London Printed for E. Wright.
 **Types of content**
 
   * There are 76 **verse** lines!
